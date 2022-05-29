@@ -1,10 +1,9 @@
-###### SimpleProject_20211120
-###### Team : sg-moomins and SeungHwanW
+## >> Django 스터디
+### >>> 승률 예측 웹 사이트 개발 공부
+#### Team : sg-moomins and SeungHwanW
 
 >>
 ---
-####  [conference update]
-- ##### 2021/11/20
-    - ###### 회의록_20211120.v1 추가
-- ##### 2021/12/03
-    - ###### 회의록_20211203.v1 추가
+#### 미리보기
+![실행 이미지](https://cdn.discordapp.com/attachments/911905192407101463/980455913901162546/unknown.png)
+![실행 이미지](https://cdn.discordapp.com/attachments/911905192407101463/980455988975009862/unknown.png)
