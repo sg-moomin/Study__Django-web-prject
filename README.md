@@ -1,6 +1,5 @@
 ## >> Django 스터디
 ### >>> 승률 예측 웹 사이트 개발 공부
-#### Team : sg-moomins and SeungHwanW
 
 >>
 ---
